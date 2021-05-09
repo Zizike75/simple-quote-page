@@ -7,14 +7,11 @@ body {
 }
 
 body {
-    padding: 0;
-    margin: 0;
     width: 100%;
     height: 100vh;
     background: url(assets/freedom.jpg) no-repeat center;
     background-size: cover;
-    line-height: 1.5;
-
+    color: #333;
 }
 
 .wrapper {
